@@ -2,15 +2,13 @@
         background: black;
         font-size: 10px;
     }
-    
     .total {
         margin: 0 auto;
-        width: 80%;
-        overflow: auto;
+        width: 90%;
+        overflow:  auto;
         background: white;
         color: black;
     }
-    
     .judul {
         background: black;
         margin: 20px;
@@ -18,15 +16,12 @@
         color: white;
         text-align: center;
     }
-    
     .font-judul {
         font-size: 50px;
     }
-    
     .font-bawah-judul {
         font-size: 20px;
     }
-    
     .menu {
         background: black;
         margin: 20px;
@@ -34,21 +29,18 @@
         color: white;
         text-align: center;
     }
-    
     .menu a {
         text-decoration: none;
         color: black;
         font-size: 20px;
     }
-    
-    .menu li {
+    .menu li{
         display: inline;
         background: white;
         padding: 10px;
         margin: 10px;
         color: white;
     }
-    
     .tengah {
         overflow: auto;
         background: black;
@@ -56,19 +48,16 @@
         padding: 20px;
         color: white;
     }
-    
     .tengah .judul-konten {
         background: black;
         color: white;
         padding: 10px;
     }
-    
     .tengah .isi-konten {
         background: white;
         color: black;
         padding: 10px;
     }
-    
     .tengah .kiri {
         float: left;
         margin: 0 auto;
@@ -76,9 +65,8 @@
         padding: 20px;
         background: white;
         color: black;
-        width: 70%;
+        width: 65%;
     }
-    
     .tengah .kanan {
         float: right;
         margin: 0 auto;
@@ -88,7 +76,6 @@
         color: black;
         width: 20%;
     }
-    
     .copyleft {
         background: black;
         margin: 20px;
